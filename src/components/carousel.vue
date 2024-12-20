@@ -12,7 +12,7 @@
 import { ref, onMounted, onUnmounted } from "vue";
 
 export default {
-  name: "carousel",
+  name: "car-ousel",
   setup() {
     const currentSlide = ref(0);
     const slides = [

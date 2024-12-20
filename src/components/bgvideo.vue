@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: "bgvideo",
+  name: "bg-video-",
 };
 </script>
 

@@ -15,7 +15,7 @@
 
 <script>
 import Header from "../Header/Header.vue"; // 導入 Header 組件
-import Footer from "../Footer.vue"; // 導入 Footer 組件
+import Footer from "../../footer.vue"; // 導入 Footer 組件
 
 export default {
   name: "wrapper",
